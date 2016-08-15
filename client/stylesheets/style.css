@@ -33,7 +33,7 @@
   *zoom: 1;
   position: relative;
   opactiy: 1; }
-  .post:before, .postafter {
+  .post:before, .post:after {
     content: "";
     display: table; }
   .post:after {
